@@ -3,7 +3,7 @@
 
 # Team :
 <a href="https://github.com/faical23">Faical Bahsis</a><br/>
-<a href="https://github.com/zolmine">Mohamed Amine Sobhi</a><br/>
+<a href="https://github.com/zolmine">Mohamed Amine Essobhi</a><br/>
 <a href="https://github.com/Rvey">Redouane Bouabana</a>
 
 
